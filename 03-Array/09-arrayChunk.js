@@ -6,5 +6,5 @@ const chunk = (array, size) => {
     return result
 }   
 
-console.log(chunk([1, 2, 3, 4, 5, 6, 7], 3)); // Output: [[1,2,3],[4,5,6],[7]]
+console.log(chunk([1, 2, 3, 4, 5, 6, 7, 8], 3)); 
 
